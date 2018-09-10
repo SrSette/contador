@@ -1,0 +1,17 @@
+body{
+	background-color: #ccffdd;
+	text-align: center;
+}
+
+.center {
+    border: solid 3px;
+}
+
+table{
+	background-color: white;
+}
+th{
+	border-color: silver;
+	border: 1px;
+	padding: inherit;
+}
